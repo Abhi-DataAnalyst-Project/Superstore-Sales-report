@@ -10,15 +10,12 @@ This project is needed to gain valuable insights into the performance and trends
 
 #Process:-
 
-1) Transform data from csv file to power bi
-   
-2) Cleaning the in power query editor
-
-3) Relationship building in power bi
-
-4) Creating Dax ex as per requirement
-
-5) Visualize it
+1) Data extraction – Gathering data from Kaggle.
+2) Data exploration – Looking for patterns / trends, missing and duplicate & errors.
+3) Data cleaning – Removing blanks, duplicate, errors, changing data formatting.
+4) Data understanding – Data modeling and relationship building.
+5) Data processing – Creating new measures and Dax EX for better analysis.
+6) Data visualization – Interactive dashboard with KPI, slicer (Filter), trends.
 
 
 #Topic covered of this project:-

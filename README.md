@@ -7,6 +7,20 @@
 
 This project is needed to gain valuable insights into the performance and trends of the store's sales data. By analyzing the data, the project aims to provide a comprehensive understanding of the store's sales, profitability, and efficiency. It allows the store management and stakeholders to make data-driven decisions, optimize operations, identify growth opportunities, and address potential challenges.
 
+
+#Process:-
+
+1) Transform data from csv file to power bi
+   
+2) Cleaning the in power query editor
+
+3) Relationship building in power bi
+
+4) Creating Dax ex as per requirement
+
+5) Visualize it
+
+
 #Topic covered of this project:-
 
 The purpose of this project is to conduct a thorough analysis of the Super Store's sales data and provide actionable insights for various aspects of the business:
